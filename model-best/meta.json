@@ -1,0 +1,100 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.4,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"bff8725f4",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "COMPONENT",
+      "COMPONENTS",
+      "CORRECTIVE ACTION",
+      "FAILURE",
+      "FAILURE ISSUE",
+      "FAILURE iSSUE",
+      "SYSTEM FAILURE",
+      "SYSTEM FAILURE ISSUE",
+      "VEHICLE MODEL"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.8532423208,
+    "ents_p":0.9057971014,
+    "ents_r":0.8064516129,
+    "ents_per_type":{
+      "FAILURE ISSUE":{
+        "p":0.935483871,
+        "r":0.8529411765,
+        "f":0.8923076923
+      },
+      "COMPONENTS":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "CORRECTIVE ACTION":{
+        "p":0.9714285714,
+        "r":0.7727272727,
+        "f":0.8607594937
+      },
+      "COMPONENT":{
+        "p":0.8125,
+        "r":0.8666666667,
+        "f":0.8387096774
+      },
+      "VEHICLE MODEL":{
+        "p":1.0,
+        "r":0.9090909091,
+        "f":0.9523809524
+      },
+      "FAILURE iSSUE":{
+        "p":0.5,
+        "r":1.0,
+        "f":0.6666666667
+      },
+      "SYSTEM FAILURE ISSUE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "FAILURE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "SYSTEM FAILURE":{
+        "p":1.0,
+        "r":0.4,
+        "f":0.5714285714
+      }
+    },
+    "tok2vec_loss":524.1297598669,
+    "ner_loss":2201.0313540513
+  }
+}
