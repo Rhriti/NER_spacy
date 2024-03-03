@@ -1,0 +1,1040 @@
+{
+    "classes": [
+      "COMPONENT",
+      "SYSTEM FAILURE",
+      "VEHICLE MODEL",
+      "CORRECTIVE ACTION"
+    ],
+    "annotations": [
+      [
+        "If the floor mat moves out of position and interferes with the accelerator or brake pedal operation, it can increase the risk of a crash.\tSubaru has notified owners, and dealers will inspect the floor mat retention bracket and replace it if necessary, free of charge.  The recall began November 14, 2017.  Owners may contact Subaru customer service at 1-800-782-2783.  Subaru's number for this recall is WTR-77.\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.\r",
+        {
+          "entities": [
+            [
+              43,
+              74,
+              "FAILURE ISSUE"
+            ],
+            [
+              78,
+              89,
+              "COMPONENTS"
+            ],
+            [
+              195,
+              222,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              227,
+              234,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "THE RIVETS MUST BE REPLACED WITH THE CORRECT BOLTS.\tSYSTEM: INTERIOR SYSTEMS: SEAT TRACKS AND ANCHORS; REAR SEAT; FMVSS 207.VEHICLE DESCRIPTION: LIGHT-DUTY TRUCKS; 1-TON CREW CAB PICKUP TRUCKS EQUIPPEDWITH AM7 FOLDING REAR BENCH SEAT.CONSEQUENCE OF DEFECTS: IN AN ACCIDENT, THE SEAT WOULD BECOME DETACHEDCAUSING INJURIES TO THE SEAT OCCUPANTS OR OTHER OCCUPANTS IN THE TRUCK.NOTE: IF YOUR VEHICLE IS PRESENTED TO AN AUTHORIZED DEALER ON AN AGREED UPONSERVICE DATE AND THE REMEDY IS NOT PROVIDED WITHIN A REASONABLE TIME AND FREEOF CHARGE OR THE REMEDY DOES NOT CORRECT THE DEFECT OR NONCOMPLIANCE, PLEASECONTACT THE CHEVROLET SERVICE CENTER AT 1-800-222-1020 OR GMC TRUCK SERVICECENTER AT 1-313-456-4547. ALSO, CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETYADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-800-424-9393.\r",
+        {
+          "entities": [
+            [
+              0,
+              10,
+              "COMPONENTS"
+            ],
+            [
+              94,
+              101,
+              "COMPONENTS"
+            ],
+            [
+              103,
+              112,
+              "COMPONENTS"
+            ],
+            [
+              218,
+              228,
+              "COMPONENTS"
+            ],
+            [
+              278,
+              282,
+              "COMPONENTS"
+            ]
+          ]
+        }
+      ],
+      [
+        "THIS CONDITION CAN CONTINUE TO DETERIORATE AND WILL EVENTUALLY RESULT IN THE BALL JOINT STUD SEPARATING FROM THE HOUSING INCREASING THE RISK OF LOSS OF VEHICLE CONTROL.\tMOOG WILL REPLACE THESE BALL JOINTS WITH BALL JOINTS FROM ANOTHER SUPPLIER.\tOWNER NOTIFICATION BEGAN OCTOBER 12, 1998.OWNERS WHO DO NOT RECEIVE THE FREE REPLACEMENT BALL JOINTS WITHIN A REASONABLE TIME SHOULD CONTACT MOOG AT 1-314-385-3400.ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\r",
+        {
+          "entities": []
+        }
+      ],
+      [
+        "If the component detaches during deployment, the curtain air bag may not inflate properly during a crash, increasing the risk of injury.  Additionally, if the detached component were to enter the vehicle occupant compartment, there could be an increased risk of occupant injury.\tHyundai will notify owners, and dealers will replace the driver and passenger side curtain air bags, free of charge.  The recall is expected to begin February 9, 2018.  Owners may contact Hyundai customer service at 1-855-671-3059.  Hyundai's number for this recall is 171.\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.\r",
+        {
+          "entities": []
+        }
+      ],
+      [
+        "Improper air bag deployment can increase the risk of an injury.\tDealers will replace the trim parts, free of charge.  Owner notification letters were mailed May 27, 2022.  Owners may contact MBUSA customer service at 1-800-367-6372.  MBUSA's number for this recall is 2022050006. \tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.\r",
+        {
+          "entities": [
+            [
+              0,
+              27,
+              "FAILURE ISSUE"
+            ],
+            [
+              77,
+              99,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "FORD CAMPAIGN NO H7H.4X4 TRUCKS EQUIPPED W/6 CYLINDER ENGINES.POSSIBILITYTHAT AN INCORRECT REAR DRIVESHAFT WAS INSTALLED IN PRODUCTION.IFTHISCONDITION EXISTS THE DRIVESHAFT WILL VIBRATE AND DEFLECT AT HIGH SPEEDS.THIS VIBRATION AND DEFLECTION COULD CAUSE SHAFT TOBREAK.A BROKEN DRIVESHAFTMIGHT ADVERSELY AFFECT CONTROL OF VEHICLE.(CORRECT BY INSPECTING AND REPLACEWITH CORRECT DRIVESHAFT WHERE NECESSARY.\r",
+        {
+          "entities": [
+            [
+              81,
+              106,
+              "FAILURE ISSUE"
+            ],
+            [
+              232,
+              242,
+              "FAILURE ISSUE"
+            ],
+            [
+              271,
+              293,
+              "FAILURE ISSUE"
+            ],
+            [
+              377,
+              387,
+              "COMPONENTS"
+            ]
+          ]
+        }
+      ],
+      [
+        "If the fuel pump fails, the vehicle may stall without warning, increasing the risk of a crash.\tFord will notify owners, and dealers will replace the fuel pump, free of charge.  The recall began on February 27, 2015.  Owners may contact Ford customer service at 1-866-436-7332.  Ford's number for this recall is 14S30. \tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.\r",
+        {
+          "entities": [
+            [
+              7,
+              22,
+              "FAILURE ISSUE"
+            ],
+            [
+              137,
+              158,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "IN THE EVENT OF A SEPARATION, THE FALLING GLASS COULD CREATE A ROAD HAZARD OR STRIKE A TRAILING VEHICLE, AND CAUSE A CRASH.\tWEBASTO, THE MANUFACTURER OF THE SUNROOFS, WILL BE PERFORMING THE SAFETY RECALL CAMPAIGN.  OWNERS WHO HAVE BEEN IDENTIFIED AS HAVING AN AFFECTED SUNROOF INSTALLED IN THEIR VEHICLE WILL RECEIVE A SAFETY RECALL NOTICE FROM WEBASTO.   THE SAFETY RECALL BEGAN ON OCTOBER 8, 2010.  IN ORDER TO DETERMINE IF YOUR VEHICLE IS AFFECTED, PLEASE REVIEW THE LIST OF VEHICLES PROVIDED TO US BY M & M AUTOMOTIVE] BY CLICKING ON THE HYPERLINK <a href=http://www-odi.nhtsa.dot.gov/acms/docservlet/Artemis/Public/Recalls/2011/V/RCORRD-11V041-7676.pdf>AFFECTED VEHICLE LIST</a> OR YOU MAY VISIT WEBASTO'S WEBSITE AT <a href=http://www.sunroofcheck.com> WWW.SUNROOFCHECK.COM</a>. YOU CAN ALSO CALL WEBASTO TOLL-FREE AT 1-888-749-8632.\tOWNERS MAY ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S VEHICLE SAFETY HOTLINE AT 1-888-327-4236 (TTY 1-800-424-9153), OR GO TO <A HREF=HTTP://WWW.SAFERCAR.GOV>HTTP://WWW.SAFERCAR.GOV</A> .\r",
+        {
+          "entities": [
+            [
+              157,
+              165,
+              "COMPONENTS"
+            ],
+            [
+              190,
+              213,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "In the event of a fire, if the fire extinguisher does not function properly, it can increase the risk of injury.\t\"Volvo will notify owners, instructing them to contact Kidde for a replacement fire extinguisher, free of charge. The recall began on November 2, 2017.  Owners may contact Volvo customer service at 1-800-528-6586, or Kidde customer service toll-free at 1-855-262-3540, or online at www.kidde.com and click on \"\"Product Safety Recall\"\" for more information.\"\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.\r",
+        {
+          "entities": [
+            [
+              31,
+              75,
+              "FAILURE ISSUE"
+            ],
+            [
+              180,
+              209,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "THE DEALER WILL DO A TORQUE CHECK OF THE SELF-LOCKING NUTS AND, IF THE NUTS ARE FOUND TO BE LOOSE, THEY WILL BE TIGHTENED TO THE PROPER TORQUE SPECIFICATIONS, FREE OF CHARGE.\tVEHICLE DESCRIPTION: PASSENGER VEHICLES.SYSTEM: STEERING; SELF LOCKING NUTS (STEERING COLUMN).CONSEQUENCES OF DEFECT: IF THE NUTS LOOSEN AND FALL OFF, THIS CAN LEAD TO LOSSOF VEHICLE CONTROL AND AN ACCIDENT.NOTE: PRIOR WARNING TO THE DRIVER SHOULD OCCUR IN THE FORM OF ABNORMAL STEERINGPLAY, CAUSED BY THE LOOSE NUTS.\r",
+        {
+          "entities": [
+            [
+              71,
+              97,
+              "FAILURE ISSUE"
+            ],
+            [
+              112,
+              142,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              233,
+              250,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              300,
+              324,
+              "FAILURE ISSUE"
+            ],
+            [
+              481,
+              491,
+              "FAILURE ISSUE"
+            ]
+          ]
+        }
+      ],
+      [
+        "IF BOTH SPRINGS FAIL, ENGINE THROTTLE MAY NOT RETURN TOIDLE POSITION WHEN THROTTLE FOOT PEDAL IS RELEASED; THIS COULD RESULT IN A LOSSOF VEHICLE CONTROL AND A CRASH.\tREPLACE THROTTLE RETURN SPRINGS.\tSYSTEM: THROTTLE RETURN SPRINGS.VEHICLE DESCRIPTION: HEAVY DUTY CONVENTIONAL TRUCKS.\t\r",
+        {
+          "entities": [
+            [
+              8,
+              20,
+              "FAILURE ISSUE"
+            ],
+            [
+              22,
+              28,
+              "COMPONENT"
+            ],
+            [
+              29,
+              37,
+              "COMPONENT"
+            ],
+            [
+              83,
+              93,
+              "COMPONENT"
+            ],
+            [
+              130,
+              152,
+              "FAILURE ISSUE"
+            ],
+            [
+              159,
+              165,
+              "FAILURE ISSUE"
+            ],
+            [
+              166,
+              198,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              207,
+              215,
+              "COMPONENT"
+            ],
+            [
+              223,
+              238,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "An incorrectly installed seat can increase the risk of injury in the event of a crash.\tBlue Bird will notify owners, and dealers will inspect the seats and install any missing hardware, as necessary, free of charge.  The recall is expected to begin April 9, 2021.  Owner notification letters were mailed February 03, 2022. Owners may contact Blue Bird customer service at 1-478-822-2242.  Blue Bird's number for this recall is R21BB-SB.   \tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.\t\r",
+        {
+          "entities": [
+            [
+              3,
+              29,
+              "FAILURE ISSUE"
+            ],
+            [
+              156,
+              184,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "An inoperable horn may increase the risk of a crash.\tDealers will replace the horn, the horn mount bracket, and the horn harness, free of charge.  Interim notification letters informing owners of the safety risk were mailed April 4, 2022.  Remedy parts are expected to become available in May 2022.  Owners may contact KMC customer service at 1-866-802-9381.  KMC's number for this recall is MC22-03.\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov. Please be reminded of the following requirements:You are required to submit a draft owner notification letter to this office no less than five days prior to mailing it to the customers.Also, copies of all notices, bulletins, dealer notifications, and other communications that relate to this recall, including a copy of the final owner notification letter and any subsequent owner follow-up notification letter(s), are required to be submitted to this office no later than 5 days after they are originally sent (if they are sent to more than one manufacturer, distributor, dealer, or purchaser/owner).Please be reminded that under 49 U.S.C. ? 30112(a)(3), it is illegal for a manufacturer, to sell, offer for sale, import, or introduce or deliver into interstate commerce, a motor vehicle or item of motor vehicle equipment that contains a safety defect once the manufacturer has notified NHTSA about that safety defect.This prohibition does not apply once the motor vehicle or motor vehicle equipment has been remedied according to the manufacturer's instructions.As stated in Part 573.7, submission of the first of eight consecutive quarterly status reports is required within one month after the close of the calendar quarter in which notification to purchasers occurs.Therefore, the first quarterly report will be due on, or before, 30 days after the close of the calendar quarter.\t\r",
+        {
+          "entities": [
+            [
+              3,
+              18,
+              "FAILURE ISSUE"
+            ],
+            [
+              66,
+              82,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              88,
+              92,
+              "COMPONENT"
+            ],
+            [
+              116,
+              120,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "An improperly tightened seat belt buckle may not restrain an occupant as intended, increasing their risk of injury during a crash.\tDealers will inspect and tighten the second-row seat belt buckle anchorage bolts, as necessary, free of charge.  Owner notification letters were mailed January 19, 2024.  Owners may contact Volvo Car customer service at 1-800-458-1552.  Volvo Car's number for this recall is R10259.\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.\t\r",
+        {
+          "entities": [
+            [
+              3,
+              40,
+              "FAILURE ISSUE"
+            ],
+            [
+              156,
+              188,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              189,
+              195,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "If the alternator B+ terminal nut loosens, electrical arcing may result, increasing the risk of a fire.\tKia will notify owners, and dealers will inspect the alternator B+ terminal nut, tightening it as necessary, free of charge.  The recall began August 14, 2020.  Owners may contact Kia customer service at 1-800-333-4542.  Kia's number for this recall is SC192.\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.\t\r",
+        {
+          "entities": [
+            [
+              30,
+              41,
+              "FAILURE ISSUE"
+            ],
+            [
+              145,
+              167,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              185,
+              198,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "SEAT FRAME COULD FRACTURE AND RESULT IN SIGNIFICANTREARWARD MOVEMENT OF THE SEAT BACK.\tREPLACE FRAME WITH PROPER POWER SEAT FRAME.\tSYSTEM: SEAT FRAME.VEHICLE DESCRIPTION: PASSENGER CARS EQUIPPED WITH OPTIONAL POWER ADJUSTER BUCKETOR 50/50 FRONT SEATS.\t\r",
+        {
+          "entities": [
+            [
+              0,
+              10,
+              "COMPONENT"
+            ],
+            [
+              17,
+              25,
+              "FAILURE ISSUE"
+            ],
+            [
+              139,
+              143,
+              "COMPONENT"
+            ],
+            [
+              144,
+              157,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "An awning that detaches while the vehicle is in motion can increase the risk of a crash or injury.\tDealers will inspect and secure the awning, free of charge.  Owner notification letters were mailed March 18, 2022.  Owners may contact Tiffin customer service at 1-256-356-0261.  Tiffin's number for this recall is TIF-121.\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.\t\r",
+        {
+          "entities": [
+            [
+              3,
+              23,
+              "FAILURE ISSUE"
+            ],
+            [
+              112,
+              119,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "IF THE AIR DRYER SEPARATES FROM THE BASE, THE CARTRIDGECAN SEPARATE SUFFICIENTLY ENOUGH TO CAUSE PERSONAL INJURY OR PROPERTY DAMAGE.\tDEALERS WILL EQUIP AIR SYSTEMS WITH A PRESSURE RELIEF VALVE TO BE LOCATED BETWEEN THE COMPRESSOR AND THE AIR DRYER. THIS PRESSURE RELIEF VALVE IS INTENDED TO VENT IF EXCESSIVE PRESSURE DEVELOPS IN THE AIR DRYER.\t\"SYSTEM: BRAKES; AIR DRYER.VEHICLE DESCRIPTION: HEAVY DUTY TRUCKS EQUIPPED WITH ROCKWELL WABCO SYSTEM SAVER \"\"1000\"\" OR SYSTEM SAVER \"\"TWIN\"\" AIR DRYERS.NOTE: IF YOUR VEHICLE IS PRESENTED TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND THE REMEDY IS NOT PROVIDED FREE OF CHARGE WITH IN A REASONABLE TIME, CONTACT PETERBILT AT 1-510-790-4013 OR KENWORTH AT 1-206-828-5418.ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-800-424-9393.\"\t\r",
+        {
+          "entities": [
+            [
+              7,
+              40,
+              "FAILURE ISSUE"
+            ],
+            [
+              46,
+              58,
+              "COMPONENT"
+            ],
+            [
+              146,
+              192,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              219,
+              229,
+              "COMPONENT"
+            ],
+            [
+              238,
+              248,
+              "COMPONENT"
+            ],
+            [
+              270,
+              275,
+              "COMPONENT"
+            ],
+            [
+              334,
+              344,
+              "COMPONENT"
+            ],
+            [
+              354,
+              360,
+              "COMPONENT"
+            ],
+            [
+              362,
+              379,
+              "COMPONENT"
+            ],
+            [
+              425,
+              446,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "Without a warning indicator, the driver will be unaware if low tire pressure occurs, increasing the risk of a crash.\tChrysler will notify owners, and dealers will replace the TPMS sensor, free of charge.  The recall began January 9, 2020.  Owners may contact Chrysler customer service at 1-800-853-1403.  Chrysler's number for this recall is VE1.\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.\t\r",
+        {
+          "entities": [
+            [
+              59,
+              76,
+              "FAILURE ISSUE"
+            ],
+            [
+              163,
+              186,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "An overloaded vehicle may cause tire failure, increasing the risk of a crash.\tDealers will install corrected labels on the B-pillar and fuel filler door. Dealers will also inspect and replace incorrect tires, as necessary.  All repairs will be performed free of charge.  Interim notification letters, notifying owners of the safety risk, were mailed on September 1, 2022.  A second notice will be sent once remedy parts become available, anticipated March 2024.  Owners may contact DVUSA at 1-877-762-8267.  DVUSA's number for this recall is VS2LASTRE.  \tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.\t\r",
+        {
+          "entities": [
+            [
+              32,
+              44,
+              "FAILURE ISSUE"
+            ],
+            [
+              91,
+              115,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              123,
+              131,
+              "COMPONENT"
+            ],
+            [
+              136,
+              153,
+              "COMPONENT"
+            ],
+            [
+              184,
+              207,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      null,
+      null,
+      null,
+      [
+        "If the handling is compromised from the loose spokes on the rear wheel, there would be an increased risk of a crash.\tMV Agusta will notify owners, and dealers will replace the rear wheels, free of charge.  The recall began on December 13, 2017.  Owners may contact MV Agusta customer service at 1-215-781-1770.  MV Agusta's number for this recall is 2813.\tOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.safercar.gov.\t\r",
+        {
+          "entities": [
+            [
+              40,
+              52,
+              "FAILURE ISSUE"
+            ],
+            [
+              60,
+              70,
+              "COMPONENT"
+            ],
+            [
+              164,
+              171,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              176,
+              187,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      null,
+      [
+        "IN THE EVENT OF A SUDDEN STOP, THE SEAT CUSHION MAY TIP FORWARD AND MAY BECOME UNATTACHED CAUSING THE PASSENGER TO SLIDE OFF THE SEAT AND/OR BE TRAPPED BY THE SEAT CUSHION.  THIS ACTION COULD POSSIBLY RESULT IN PERSONAL INJURY OR DEATH.\tIC CORP WILL NOTIFY ITS CUSTOMERS AND WILL REPAIR THE CUSHION BY ADDING A CLIP TO THE CUSHION TYING IT TO THE SEAT FRAME.    THE RECALL BEGAN ON OCTOBER 5, 2004.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT IC COMPLIANCE DEPARTMENT AT 1-800-843-5615.\tALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t\r",
+        {
+          "entities": [
+            [
+              40,
+              63,
+              "FAILURE ISSUE"
+            ],
+            [
+              79,
+              89,
+              "FAILURE ISSUE"
+            ],
+            [
+              129,
+              133,
+              "COMPONENT"
+            ],
+            [
+              302,
+              315,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              347,
+              358,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      [
+        "FOCUS\t\"THIS, IN TURN, COULD CAUSE THE BATTERY CABLES TO SHORT RESULTING IN HEAT DAMAGE TO THE CABLES.  BESIDES HEAT DAMAGE, THE \"\"CHECK ENGINE\"\" LIGHT MAY ILLUMINATE, THE VEHICLE MAY FAIL TO START, OR SMOKE, MELTING, OR FIRE COULD ALSO OCCUR.\"\tDEALERS WILL INSPECT THE BATTERY CABLES FOR THE CONDITION OF THE CABLE INSULATION AND PROPER TIGHTENING OF THE TERMINAL ENDS.  AS NECESSARY, CABLES WILL BE REROUTED, RETAINING CLIPS INSTALLED, AND DAMAGED BATTERY CABLES REPLACED.   OWNER NOTIFICATION BEGAN FEBRUARY 10, 2003.   OWNERS WHO DO NOT RECEIVE THE FREE REMEDY  WITHIN A REASONABLE TIME SHOULD CONTACT FORD AT 1-866-436-7332.\tALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015339000215021000000202\r",
+        {
+          "entities": [
+            [
+              0,
+              5,
+              "VEHICLE MODEL"
+            ],
+            [
+              38,
+              45,
+              "COMPONENT"
+            ],
+            [
+              46,
+              52,
+              "COMPONENT"
+            ],
+            [
+              183,
+              196,
+              "FAILURE ISSUE"
+            ],
+            [
+              201,
+              206,
+              "FAILURE iSSUE"
+            ],
+            [
+              208,
+              215,
+              "FAILURE ISSUE"
+            ],
+            [
+              220,
+              224,
+              "FAILURE ISSUE"
+            ],
+            [
+              269,
+              276,
+              "COMPONENT"
+            ],
+            [
+              385,
+              408,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              410,
+              435,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              449,
+              456,
+              "COMPONENT"
+            ],
+            [
+              457,
+              473,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "FOCUS\t\"THIS, IN TURN, COULD CAUSE THE BATTERY CABLES TO SHORT RESULTING IN HEAT DAMAGE TO THE CABLES.  BESIDES HEAT DAMAGE, THE \"\"CHECK ENGINE\"\" LIGHT MAY ILLUMINATE, THE VEHICLE MAY FAIL TO START, OR SMOKE, MELTING, OR FIRE COULD ALSO OCCUR.\"\tDEALERS WILL INSPECT THE BATTERY CABLES FOR THE CONDITION OF THE CABLE INSULATION AND PROPER TIGHTENING OF THE TERMINAL ENDS.  AS NECESSARY, CABLES WILL BE REROUTED, RETAINING CLIPS INSTALLED, AND DAMAGED BATTERY CABLES REPLACED.   OWNER NOTIFICATION BEGAN FEBRUARY 10, 2003.   OWNERS WHO DO NOT RECEIVE THE FREE REMEDY  WITHIN A REASONABLE TIME SHOULD CONTACT FORD AT 1-866-436-7332.\tALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015339000215022000000202\r",
+        {
+          "entities": [
+            [
+              0,
+              5,
+              "VEHICLE MODEL"
+            ],
+            [
+              38,
+              52,
+              "COMPONENT"
+            ],
+            [
+              136,
+              144,
+              "COMPONENT"
+            ],
+            [
+              183,
+              196,
+              "FAILURE ISSUE"
+            ],
+            [
+              201,
+              206,
+              "FAILURE ISSUE"
+            ],
+            [
+              208,
+              215,
+              "SYSTEM FAILURE ISSUE"
+            ],
+            [
+              257,
+              283,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              309,
+              325,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              330,
+              363,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              385,
+              408,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              410,
+              435,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              457,
+              473,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "FT EAGLE 10 SG\tIF THE TIRES WERE INFLATED TO 80 PSI, THEY COULD BLOW RESULTING IN A POSSIBLE CRASH.\tOWNERS WILL BE MAILED CORRECT LABELS FOR INSTALLATION ON THEIR VEHICLES.   OWNER NOTIFICATION BEGAN SEPTEMBER 23, 2002.    OWNERS SHOULD CONTACT JAYCO AT 1-877-825-4782.\tALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015210000106403000000349\r",
+        {
+          "entities": [
+            [
+              0,
+              8,
+              "VEHICLE MODEL"
+            ]
+          ]
+        }
+      ],
+      [
+        "ENDEAVOR\tCONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.\tDEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.\tCUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015211000083965000000272\r",
+        {
+          "entities": [
+            [
+              0,
+              8,
+              "VEHICLE MODEL"
+            ],
+            [
+              38,
+              66,
+              "FAILURE ISSUE"
+            ],
+            [
+              71,
+              98,
+              "FAILURE ISSUE"
+            ],
+            [
+              150,
+              156,
+              "FAILURE ISSUE"
+            ],
+            [
+              175,
+              192,
+              "FAILURE ISSUE"
+            ],
+            [
+              206,
+              225,
+              "COMPONENT"
+            ],
+            [
+              240,
+              258,
+              "COMPONENT"
+            ],
+            [
+              266,
+              287,
+              "FAILURE"
+            ],
+            [
+              362,
+              389,
+              "SYSTEM FAILURE"
+            ],
+            [
+              397,
+              447,
+              "SYSTEM FAILURE"
+            ],
+            [
+              461,
+              468,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              509,
+              541,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              547,
+              553,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              570,
+              589,
+              "COMPONENT"
+            ],
+            [
+              659,
+              673,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "VACATIONER\tCONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.\tDEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.\tCUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015211000087576000000272\r",
+        {
+          "entities": [
+            [
+              0,
+              10,
+              "VEHICLE MODEL"
+            ],
+            [
+              189,
+              194,
+              "COMPONENT"
+            ],
+            [
+              208,
+              234,
+              "COMPONENT"
+            ],
+            [
+              242,
+              260,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      [
+        "VACATIONER\tCONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.\tDEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.\tCUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015211000093133000000272\r",
+        {
+          "entities": [
+            [
+              0,
+              10,
+              "VEHICLE MODEL"
+            ],
+            [
+              141,
+              158,
+              "SYSTEM FAILURE"
+            ],
+            [
+              177,
+              194,
+              "SYSTEM FAILURE"
+            ],
+            [
+              268,
+              276,
+              "SYSTEM FAILURE"
+            ],
+            [
+              364,
+              391,
+              "SYSTEM FAILURE"
+            ],
+            [
+              463,
+              509,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              511,
+              543,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              549,
+              555,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              661,
+              675,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "LAPALMA\tCONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.\tDEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.\tCUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015211000094211000000272\r",
+        {
+          "entities": [
+            [
+              0,
+              7,
+              "VEHICLE MODEL"
+            ],
+            [
+              55,
+              65,
+              "COMPONENT"
+            ],
+            [
+              239,
+              257,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ],
+      [
+        "VACATIONER\tCONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.\tDEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.\tCUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015211000097964000000272\r",
+        {
+          "entities": [
+            [
+              0,
+              10,
+              "VEHICLE MODEL"
+            ]
+          ]
+        }
+      ],
+      [
+        "ADMIRAL\tCONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.\tDEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.\tCUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015211000101447000000272\r",
+        {
+          "entities": [
+            [
+              0,
+              7,
+              "VEHICLE MODEL"
+            ]
+          ]
+        }
+      ],
+      [
+        "ADMIRAL\tCONDITIONS CAN RESULT IN THE BOTTOMING OUT THE SUSPENSION AND AMPLIFICATION OF THE STRESS PLACED ON THE FLOOR TRUSS NETWORK.  THE ADDITIONAL STRESS CAN RESULT IN THE FRACTURE OF WELDS SECURING THE FLOOR TRUSS NETWORK SYSTEM TO THE CHASSIS FRAME RAIL AND/OR FRACTURE OF THE FLOOR TRUSS NETWORK SUPPORT SYSTEM.  THE POSSIBILITY EXISTS THAT THERE COULD BE DAMAGE TO ELECTRICAL WIRING AND/OR FUEL LINES WHICH COULD POTENTIALLY LEAD TO A FIRE.\tDEALERS WILL INSPECT THE FLOOR TRUSS NETWORK SUPPORT SYSTEM, REINFORCE THE EXISTING STRUCTURE, AND REPAIR, AS NEEDED, THE FLOOR TRUSS NETWORK SUPPORT.   OWNER NOTIFICATION BEGAN NOVEMBER 5, 2002.  OWNERS SHOULD CONTACT MONACO AT 1-800-685-6545.\tCUSTOMERS CAN ALSO CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015211000101448000000272\r",
+        {
+          "entities": []
+        }
+      ],
+      [
+        "T600\tSUCH BLOCKAGE MAY SLOW THE DELIVERY AND EXHAUST OF AIR TO AND FROM THE TRAILER BRAKES WHEN THEY ARE OPERATED BY THIS HAND-OPERATED TRAILER CONTROL VALVE.\tPACCAR WILL NOTIFY ITS CUSTOMERS AND INSPECT AND REPLACE, IF NECESSARY, THE HAND VALVE FREE OF CHARGE.   OWNER NOTIFICATION BEGAN OCTOBER 18,  2002.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT PETERBILT AT 940-591-4201.\tALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015200000097037000000090\r",
+        {
+          "entities": [
+            [
+              0,
+              4,
+              "VEHICLE MODEL"
+            ],
+            [
+              10,
+              18,
+              "SYSTEM FAILURE"
+            ],
+            [
+              23,
+              40,
+              "SYSTEM FAILURE"
+            ],
+            [
+              45,
+              52,
+              "COMPONENT"
+            ],
+            [
+              76,
+              90,
+              "COMPONENT"
+            ],
+            [
+              171,
+              177,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              196,
+              203,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              208,
+              215,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "EGB-IIF\tIF THE POTENTIOMETER SHAFT IS BROKEN, THE DRIVER COULD LOSE CONTROL OF THE PRIMARY GAS AND BRAKE WHICH COULD RESULT IN A VEHICLE CRASH.\tEMC WILL NOTIFY ITS CUSTOMERS AND REPAIR THE ELECTRONIC GAS AND BRAKE CONTROL SYSTEM WITH A LARGER POTENTIOMETER SHAFT AND ADD AN ADDITIONAL BEARING FREE OF CHARGE.  OWNER NOTIFICATION BEGAN SEPTEMBER 5, 2002.  OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT EMC AT 225-927-5558.\tEMC'S RECALL NUMBER IS SAD: 02-0001.ALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015202000106304000000296\r",
+        {
+          "entities": [
+            [
+              0,
+              7,
+              "VEHICLE MODEL"
+            ],
+            [
+              15,
+              34,
+              "COMPONENT"
+            ],
+            [
+              38,
+              44,
+              "SYSTEM FAILURE"
+            ],
+            [
+              178,
+              203,
+              "CORRECTIVE ACTION"
+            ]
+          ]
+        }
+      ],
+      [
+        "SWORD\tTHESE CONDITIONS CAN PROMOTE THE RISK OF A FIRE IN THE FILTER, POSSIBLY RESULTING IN SERIOUS INJURY.  \tDEALERS WILL REMOVE AND REPLACE THE PURAGUARD DL UNIT WITH A NEW AIR COMPRESSOR DISCHARGE LINE.   OWNERS WHO TAKE THEIR VEHICLES TO AN AUTHORIZED DEALER ON AN AGREED UPON SERVICE DATE AND DO NOT RECEIVE THE FREE REMEDY WITHIN A REASONABLE TIME SHOULD CONTACT BLUE BIRD AT 478-822-2242.\tALSO, CUSTOMERS CAN CONTACT THE NATIONAL HIGHWAY TRAFFIC SAFETY ADMINISTRATION'S AUTO SAFETY HOTLINE AT 1-888-DASH-2-DOT (1-888-327-4236).\t000015203000113637000000129\r",
+        {
+          "entities": [
+            [
+              47,
+              53,
+              "SYSTEM FAILURE"
+            ],
+            [
+              61,
+              67,
+              "COMPONENT"
+            ],
+            [
+              117,
+              128,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              133,
+              140,
+              "CORRECTIVE ACTION"
+            ],
+            [
+              145,
+              162,
+              "COMPONENT"
+            ],
+            [
+              174,
+              188,
+              "COMPONENT"
+            ]
+          ]
+        }
+      ]
+    ]
+  }
