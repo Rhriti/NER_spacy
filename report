@@ -1,8 +1,5 @@
-## 'Model-best' used to run test.py is not the best model.It is not pre-trained on unsupervised datas but just 
-with labelled data in 'final_annotations.json.
-
-## Best model is on huggingface repo,it is pre-trained and fined tuned using labelled dataset manually made by me.
-It is  "en_core_web_lg" model . Though it can't be uploaded to github as >500mb.
+## The Best model i build is on huggingface repo,it is pre-trained and fined tuned using labelled dataset manually made by me.
+.Though it can't be uploaded to github as >500mb.The 'model-best' uploded at github is not pre-trained on unsupervised datas thus result in not too good an accuracy.
 
 ## LLama 2 didn't work for me due to not enough resources, even on google colab. It might classify better than 
 current model in huggingface repo.
