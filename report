@@ -1,0 +1,10 @@
+## 'Model-best' used to run test.py is not the best model.It is not pre-trained on unsupervised datas but just 
+with labelled data in 'final_annotations.json.
+
+## Best model is on huggingface repo,it is pre-trained and fined tuned using labelled dataset manually made by me.
+It is  "en_core_web_lg" model . Though it can't be uploaded to github as >500mb.
+
+## LLama 2 didn't work for me due to not enough resources, even on google colab. It might classify better than 
+current model in huggingface repo.
+
+##Also no-shot wasn't able to classify tokens.
